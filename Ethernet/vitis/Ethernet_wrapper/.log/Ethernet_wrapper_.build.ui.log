@@ -1,0 +1,12 @@
+2025-06-25T13:20:48.743322200255-13:20:48 **** Incremental Build of project Ethernet_wrapper ****
+000-buildplatform.bat 57287 Ethernet_wrapper no_domain_build 
+000-'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+000-operable program or batch file.
+000-'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+000-operable program or batch file.
+000-'\gnuwin\bin\' is not recognized as an internal or external command,
+000-operable program or batch file.
+000-XSDB Server Channel: tcfchan#1
+00255-
+13:20:51 Build Finished (took 3s.222ms)
+

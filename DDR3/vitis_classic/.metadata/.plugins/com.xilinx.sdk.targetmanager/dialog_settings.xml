@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;ftdi Elbert NLB1PJ2PA&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Elbert-NLB1PJ2PA-0362f093-0&quot;}}]}"/>
+	<item key="DDR3_system-bitFile" value="${project_loc:DDR3}/_ide/bitstream/DDR_wrapper.bit"/>
+	<item key="DDR3_system-bmmFile" value="${project_loc:DDR3}/_ide/bitstream/DDR_wrapper.mmi"/>
+	<item key="DDR3_system-target" value="Local"/>
+	<item key="DDR3_system-device" value="Auto Detect"/>
+	<item key="DDR3_system-partial_bit" value="false"/>
+	<item key="DDR3_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="DDR3_system"/>
+	<item key="DDR3_system-microblaze_0-initElf" value="C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\DDR3\Debug\DDR3.elf"/>
+</section>

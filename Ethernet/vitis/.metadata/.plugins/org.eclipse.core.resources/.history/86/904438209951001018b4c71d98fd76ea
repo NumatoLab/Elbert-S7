@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Ethernet" location="C:/projects/Elbert_S7/Ethernet/vitis/Ethernet" platform="C:/projects/Elbert_S7/Ethernet/vitis/Ethernet_wrapper/export/Ethernet_wrapper/Ethernet_wrapper.xpfm" platformUID="xilinx:elbert_s7::0.0(custom)" systemProject="Ethernet_system" sysConfig="Ethernet_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="b933ef7452ece9b3873b3ca5c24cf44c">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1096193661">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.242017378" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

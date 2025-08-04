@@ -1,0 +1,9 @@
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+microblaze_0_axi_intc:
+- axi_intc
+- intc
+sdcard_0:
+- sdcard
+- None

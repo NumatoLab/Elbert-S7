@@ -1,0 +1,114 @@
+17:26:46 DEBUG : Logs will be stored at 'C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/IDE.log'.
+17:26:52 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\temp_xsdb_launch_script.tcl
+17:26:52 INFO  : Registering command handlers for Vitis TCF services
+17:26:53 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+17:26:53 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+17:26:53 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+17:26:54 INFO  : Platform repository initialization has completed.
+17:26:59 INFO  : XSCT server has started successfully.
+17:27:04 INFO  : Successfully done setting XSCT server connection channel  
+17:27:04 INFO  : plnx-install-location is set to ''
+17:27:04 INFO  : Successfully done query RDI_DATADIR 
+17:27:04 INFO  : Successfully done setting workspace for the tool. 
+17:27:04 INFO  : Restoring global repository preferences: 
+		 C:\Users\Akash\Documents\Tityra_old\device-tree-xlnx
+17:43:45 INFO  : Result from executing command 'getProjects': DDR_wrapper
+17:43:45 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+17:43:46 WARN  : An unexpected exception occurred in the module 'platform project logging'
+17:43:47 INFO  : Platform 'DDR_wrapper' is added to custom repositories.
+17:43:52 INFO  : Platform 'DDR_wrapper' is added to custom repositories.
+17:44:07 INFO  : Result from executing command 'getProjects': DDR_wrapper
+17:44:07 INFO  : Result from executing command 'getPlatforms': DDR_wrapper|C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR_wrapper/export/DDR_wrapper/DDR_wrapper.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+17:44:07 INFO  : Checking for BSP changes to sync application flags for project 'DDR3'...
+10:15:17 DEBUG : Logs will be stored at 'C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/IDE.log'.
+10:15:18 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\temp_xsdb_launch_script.tcl
+10:15:19 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+10:15:19 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+10:15:19 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+10:15:22 INFO  : Platform repository initialization has completed.
+10:15:25 INFO  : Registering command handlers for Vitis TCF services
+10:15:26 INFO  : XSCT server has started successfully.
+10:15:26 INFO  : Successfully done setting XSCT server connection channel  
+10:15:26 INFO  : plnx-install-location is set to ''
+10:15:32 INFO  : Successfully done setting workspace for the tool. 
+10:15:32 INFO  : Successfully done query RDI_DATADIR 
+10:15:32 INFO  : Restoring global repository preferences: 
+		 C:\Users\Akash\Documents\Tityra_old\device-tree-xlnx
+10:15:44 INFO  : Hardware specification for platform project 'DDR_wrapper' is updated.
+10:16:15 INFO  : Result from executing command 'getProjects': DDR_wrapper
+10:16:15 INFO  : Result from executing command 'getPlatforms': DDR_wrapper|C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR_wrapper/export/DDR_wrapper/DDR_wrapper.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+10:16:21 INFO  : Checking for BSP changes to sync application flags for project 'DDR3'...
+10:16:26 INFO  : The hardware specification used by project 'DDR3' is out of sync with the platform. Resource files extracted from the hardware specification will be updated.
+10:16:26 INFO  : The file 'C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\DDR3\_ide\bitstream\DDR_wrapper.bit' stored in project is removed.
+10:16:26 INFO  : The file 'C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\DDR3\_ide\bitstream\DDR_wrapper.mmi' stored in project is removed.
+10:16:26 INFO  : The updated bitstream files are copied from platform to folder 'C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\DDR3\_ide\bitstream' in project 'DDR3'.
+17:01:10 DEBUG : Logs will be stored at 'C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/IDE.log'.
+17:01:12 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\temp_xsdb_launch_script.tcl
+17:01:12 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+17:01:12 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+17:01:12 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+17:01:16 INFO  : Platform repository initialization has completed.
+17:01:17 INFO  : XSCT server has started successfully.
+17:01:17 INFO  : Successfully done setting XSCT server connection channel  
+17:01:17 INFO  : plnx-install-location is set to ''
+17:01:17 INFO  : Successfully done setting workspace for the tool. 
+17:01:18 INFO  : Successfully done query RDI_DATADIR 
+17:01:18 INFO  : Restoring global repository preferences: 
+		 C:\Users\Akash\Documents\Tityra_old\device-tree-xlnx
+17:01:18 INFO  : Registering command handlers for Vitis TCF services
+17:01:23 INFO  : Checking for BSP changes to sync application flags for project 'DDR3'...
+17:01:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:01:53 INFO  : Jtag cable 'ftdi Elbert NLB1PJ2PA' is selected.
+17:01:53 INFO  : 'jtag frequency' command is executed.
+17:01:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "ftdi Elbert NLB1PJ2PA" && level==0 && jtag_device_ctx=="jsn-Elbert-NLB1PJ2PA-0362f093-0"}' command is executed.
+17:01:55 INFO  : Device configured successfully with "C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR3/_ide/bitstream/DDR_wrapper.bit"
+17:01:55 INFO  : Context for processor 'microblaze_0' is selected.
+17:01:55 INFO  : Hardware design and registers information is loaded from 'C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR_wrapper/export/DDR_wrapper/hw/DDR_wrapper.xsa'.
+17:01:55 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+17:01:55 INFO  : Context for processor 'microblaze_0' is selected.
+17:01:55 INFO  : System reset is completed.
+17:01:58 INFO  : 'after 3000' command is executed.
+17:01:58 INFO  : Context for processor 'microblaze_0' is selected.
+17:01:58 INFO  : The application 'C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR3/Debug/DDR3.elf' is downloaded to processor 'microblaze_0'.
+17:01:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "ftdi Elbert NLB1PJ2PA" && level==0 && jtag_device_ctx=="jsn-Elbert-NLB1PJ2PA-0362f093-0"}
+fpga -file C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR3/_ide/bitstream/DDR_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR_wrapper/export/DDR_wrapper/hw/DDR_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR3/Debug/DDR3.elf
+----------------End of Script----------------
+
+17:01:59 INFO  : Context for processor 'microblaze_0' is selected.
+17:01:59 INFO  : 'con' command is executed.
+17:01:59 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+17:01:59 INFO  : Launch script is exported to file 'C:\projects\Elbert_S7\DDR3_memtest\vitis_classic\DDR3_system\_ide\scripts\systemdebugger_ddr3_system_standalone.tcl'
+17:05:39 INFO  : Bit file 'C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR3/_ide/bitstream/download.bit' is generated.
+17:07:18 INFO  : Disconnected from the channel tcfchan#1.

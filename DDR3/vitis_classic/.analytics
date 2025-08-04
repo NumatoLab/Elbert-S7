@@ -1,0 +1,17 @@
+timestamp=[2025-04-21 17:26:50], mode=WORKBENCH_START, duration=0:00:11.329, duration_ms=11329, data={}
+timestamp=[2025-04-21 17:26:51], mode=WORKBENCH_UI_INIT, duration=0:00:00.927, duration_ms=927, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2025-04-21 17:26:54], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.579, duration_ms=1579, data={}
+timestamp=[2025-04-21 17:43:51], mode=APP_CREATION, duration=0:00:12.383, duration_ms=12383, data={name=DDR3, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=DDR_wrapper, application_type=application}
+timestamp=[2025-04-21 17:44:07], mode=PLATFORM_GENERATION, duration=0:00:12.775, duration_ms=12775, data={name=DDR_wrapper}
+timestamp=[2025-04-21 17:44:11], mode=BUILD, duration=0:00:03.583, duration_ms=3583, data={name=DDR3, configuration=Debug, clean_build=false}
+timestamp=[2025-06-12 10:15:22], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.717, duration_ms=717, data={}
+timestamp=[2025-06-12 10:15:24], mode=WORKBENCH_START, duration=0:00:17.801, duration_ms=17801, data={}
+timestamp=[2025-06-12 10:15:26], mode=WORKBENCH_UI_INIT, duration=0:00:01.697, duration_ms=1697, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=DDR3,DDR3_system,DDR_wrapper,RemoteSystemsTempFiles}
+timestamp=[2025-06-12 10:16:16], mode=PLATFORM_GENERATION, duration=0:00:17.767, duration_ms=17767, data={name=DDR_wrapper}
+timestamp=[2025-06-12 10:16:26], mode=BUILD, duration=0:00:03.350, duration_ms=3350, data={name=DDR3, configuration=Debug, clean_build=false}
+timestamp=[2025-06-12 10:16:27], mode=BUILD, duration=0:00:00.261, duration_ms=261, data={name=DDR3_system, configuration=Debug, clean_build=false}
+timestamp=[2025-07-09 17:01:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.730, duration_ms=730, data={}
+timestamp=[2025-07-09 17:01:18], mode=WORKBENCH_START, duration=0:00:15.421, duration_ms=15421, data={}
+timestamp=[2025-07-09 17:01:20], mode=WORKBENCH_UI_INIT, duration=0:00:02.123, duration_ms=2123, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=DDR3,DDR3_system,DDR_wrapper,RemoteSystemsTempFiles}
+timestamp=[2025-07-09 17:01:24], mode=BUILD, duration=0:00:00.416, duration_ms=416, data={name=DDR3, configuration=Debug, clean_build=false}
+timestamp=[2025-07-09 17:01:26], mode=BUILD, duration=0:00:00.263, duration_ms=263, data={name=DDR3_system, configuration=Debug, clean_build=false}

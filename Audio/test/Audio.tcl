@@ -1,0 +1,2 @@
+connect
+fpga Audio.bit
