@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="Ethernet_system-imgFile" value="C:\Users\Akash\Documents\Projects\Tityra\SD_QSPI_Booting\Boot_image\BOOT.bin"/>
+	<item key="Ethernet_system-offSet" value=""/>
+	<item key="Ethernet_system-initFile" value=""/>
+	<item key="Ethernet_system-flashType" value="&lt;None&gt;"/>
+	<item key="Ethernet_system-flashDensity" value=""/>
+	<item key="Ethernet_system-verifyFlash" value="false"/>
+	<item key="Ethernet_system-blankCheck" value="false"/>
+	<item key="Ethernet_system-device" value="Auto Detect"/>
+	<item key="Ethernet_system-target" value="Local"/>
+	<item key="programflash.hwplatform" value="Ethernet_system"/>
+</section>

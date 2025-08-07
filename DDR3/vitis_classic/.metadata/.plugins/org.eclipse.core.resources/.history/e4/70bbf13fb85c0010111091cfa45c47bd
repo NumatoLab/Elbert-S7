@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="DDR3" location="C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR3" platform="C:/projects/Elbert_S7/DDR3_memtest/vitis_classic/DDR_wrapper/export/DDR_wrapper/DDR_wrapper.xpfm" platformUID="xilinx:elbert_s7::0.0(custom)" systemProject="DDR3_system" sysConfig="DDR_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="6974fce104c2143f74860a2264e7b8fd">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.734550419">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.2086579617" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="memory_tests"/>
+</sdkproject:SdkProject>

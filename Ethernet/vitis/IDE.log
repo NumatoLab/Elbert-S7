@@ -1,0 +1,82 @@
+18:21:55 DEBUG : Logs will be stored at 'C:/projects/Elbert_S7/Ethernet/vitis/IDE.log'.
+18:22:02 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\projects\Elbert_S7\Ethernet\vitis\temp_xsdb_launch_script.tcl
+18:22:02 INFO  : Registering command handlers for Vitis TCF services
+18:22:02 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+18:22:02 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+18:22:02 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+18:22:03 INFO  : Platform repository initialization has completed.
+18:22:07 INFO  : XSCT server has started successfully.
+18:22:14 INFO  : Successfully done setting XSCT server connection channel  
+18:22:14 INFO  : plnx-install-location is set to ''
+18:22:14 INFO  : Successfully done query RDI_DATADIR 
+18:22:14 INFO  : Successfully done setting workspace for the tool. 
+18:22:14 INFO  : Restoring global repository preferences: 
+		 C:\Users\Akash\Documents\Tityra_old\device-tree-xlnx
+18:22:50 INFO  : Result from executing command 'getProjects': Ethernet_wrapper
+18:22:50 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+18:22:50 WARN  : An unexpected exception occurred in the module 'platform project logging'
+18:22:51 INFO  : Platform 'Ethernet_wrapper' is added to custom repositories.
+18:22:56 INFO  : Platform 'Ethernet_wrapper' is added to custom repositories.
+18:23:29 INFO  : Result from executing command 'getProjects': Ethernet_wrapper
+18:23:29 INFO  : Result from executing command 'getPlatforms': Ethernet_wrapper|C:/projects/Elbert_S7/Ethernet/vitis/Ethernet_wrapper/export/Ethernet_wrapper/Ethernet_wrapper.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+18:23:30 INFO  : Checking for BSP changes to sync application flags for project 'Ethernet'...
+18:23:43 INFO  : Checking for BSP changes to sync application flags for project 'Ethernet'...
+18:24:00 INFO  : No changes in MSS file content so sources will not be generated.
+18:24:10 INFO  : Result from executing command 'getProjects': Ethernet_wrapper
+18:24:10 INFO  : Result from executing command 'getPlatforms': Ethernet_wrapper|C:/projects/Elbert_S7/Ethernet/vitis/Ethernet_wrapper/export/Ethernet_wrapper/Ethernet_wrapper.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+18:24:11 INFO  : Checking for BSP changes to sync application flags for project 'Ethernet'...
+18:27:33 INFO  : Checking for BSP changes to sync application flags for project 'Ethernet'...
+11:28:59 DEBUG : Logs will be stored at 'C:/projects/Elbert_S7/Ethernet/vitis/IDE.log'.
+11:29:01 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\projects\Elbert_S7\Ethernet\vitis\temp_xsdb_launch_script.tcl
+11:29:02 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+11:29:02 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+11:29:02 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+11:29:06 INFO  : Registering command handlers for Vitis TCF services
+11:29:06 INFO  : Platform repository initialization has completed.
+11:29:07 INFO  : XSCT server has started successfully.
+11:29:12 INFO  : Successfully done setting XSCT server connection channel  
+11:29:12 INFO  : plnx-install-location is set to ''
+11:29:12 INFO  : Successfully done query RDI_DATADIR 
+11:29:12 INFO  : Successfully done setting workspace for the tool. 
+11:29:13 INFO  : Restoring global repository preferences: 
+		 C:\Users\Akash\Documents\Tityra_old\device-tree-xlnx
+11:29:28 INFO  : No changes in MSS file content so sources will not be generated.
+11:29:34 INFO  : No changes in MSS file content so sources will not be generated.
+11:29:39 INFO  : Result from executing command 'getProjects': Ethernet_wrapper
+11:29:39 INFO  : Result from executing command 'getPlatforms': Ethernet_wrapper|C:/projects/Elbert_S7/Ethernet/vitis/Ethernet_wrapper/export/Ethernet_wrapper/Ethernet_wrapper.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+11:30:22 INFO  : Checking for BSP changes to sync application flags for project 'Ethernet'...
+13:20:30 DEBUG : Logs will be stored at 'C:/projects/Elbert_S7/Ethernet/vitis/IDE.log'.
+13:20:31 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\projects\Elbert_S7\Ethernet\vitis\temp_xsdb_launch_script.tcl
+13:20:31 ERROR : (XSDB Server)'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+13:20:31 ERROR : (XSDB Server)'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+13:20:31 ERROR : (XSDB Server)'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+
+13:20:35 INFO  : Platform repository initialization has completed.
+13:20:35 INFO  : Registering command handlers for Vitis TCF services
+13:20:36 INFO  : XSCT server has started successfully.
+13:20:40 INFO  : plnx-install-location is set to ''
+13:20:40 INFO  : Successfully done setting XSCT server connection channel  
+13:20:40 INFO  : Successfully done query RDI_DATADIR 
+13:20:40 INFO  : Successfully done setting workspace for the tool. 
+13:20:40 INFO  : Restoring global repository preferences: 
+		 C:\Users\Akash\Documents\Tityra_old\device-tree-xlnx
+13:20:51 INFO  : Result from executing command 'getProjects': Ethernet_wrapper
+13:20:51 INFO  : Result from executing command 'getPlatforms': Ethernet_wrapper|C:/projects/Elbert_S7/Ethernet/vitis/Ethernet_wrapper/export/Ethernet_wrapper/Ethernet_wrapper.xpfm;xilinx_zcu102_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_202410_1/xilinx_zcu102_base_202410_1.xpfm;xilinx_zcu102_base_dfx_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu102_base_dfx_202410_1/xilinx_zcu102_base_dfx_202410_1.xpfm;xilinx_zcu104_base_202410_1|C:/Xilinx/Vitis/2024.1/base_platforms/xilinx_zcu104_base_202410_1/xilinx_zcu104_base_202410_1.xpfm
+13:20:52 INFO  : Checking for BSP changes to sync application flags for project 'Ethernet'...

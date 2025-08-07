@@ -1,0 +1,15 @@
+13:20:48 **** Incremental Build of project Ethernet_wrapper ****
+buildplatform.bat 57287 Ethernet_wrapper no_domain_build 
+'\gnu\microblaze\lin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+'\gnu\microblaze\nt\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+'\gnuwin\bin\' is not recognized as an internal or external command,
+operable program or batch file.
+XSDB Server Channel: tcfchan#1
+13:20:52 **** Incremental Build of configuration Debug for project Ethernet ****
+make all 
+make: Nothing to be done for 'all'.
+13:20:54 **** Incremental Build of configuration Debug for project Ethernet_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
